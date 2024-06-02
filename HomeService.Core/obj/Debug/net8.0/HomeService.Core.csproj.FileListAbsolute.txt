@@ -1,0 +1,25 @@
+D:\EndProject\Home Service\HomeService.Core\bin\Debug\net8.0\HomeService.Core.deps.json
+D:\EndProject\Home Service\HomeService.Core\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.AssemblyInfo.cs
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\refint\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\ref\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\HomeService.Core\obj\Debug\net8.0\HomeService.Core.sourcelink.json
+D:\FinalProject-master\HomeService.Core\bin\Debug\net8.0\HomeService.Core.deps.json
+D:\FinalProject-master\HomeService.Core\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject-master\HomeService.Core\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.csproj.AssemblyReference.cache
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.AssemblyInfoInputs.cache
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.AssemblyInfo.cs
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.csproj.CoreCompileInputs.cache
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\refint\HomeService.Core.dll
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject-master\HomeService.Core\obj\Debug\net8.0\ref\HomeService.Core.dll

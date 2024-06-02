@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\request.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\request.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\shared\\_layout-account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\shared\\_layout-account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.infrastructure.dataaccess.repo.ef\\repositories\\expertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|solutionrelative:homeservice.infrastructure.dataaccess.repo.ef\\repositories\\expertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\comment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\comment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\comment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\comment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\bid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\bid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\bid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\bid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.infrastructure.dataaccess.repo.ef\\repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|solutionrelative:homeservice.infrastructure.dataaccess.repo.ef\\repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7559AF3A-F1E7-44D9-9960-7B38313A9BFC}|HomeService.Core.Services.Services\\HomeService.Core.Services.Services.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.core.services.services\\bidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7559AF3A-F1E7-44D9-9960-7B38313A9BFC}|HomeService.Core.Services.Services\\HomeService.Core.Services.Services.csproj|solutionrelative:homeservice.core.services.services\\bidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.core.services.appservices\\bidappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|solutionrelative:homeservice.core.services.appservices\\bidappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.core.services.appservices\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|solutionrelative:homeservice.core.services.appservices\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\listingservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\listingservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.infrastructure.dataaccess.repo.ef\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762EDB6A-060B-4447-B67B-8E9772D8CADA}|HomeService.Infrastructure.DataAccess.Repo.Ef\\HomeService.Infrastructure.DataAccess.Repo.Ef.csproj|solutionrelative:homeservice.infrastructure.dataaccess.repo.ef\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7559AF3A-F1E7-44D9-9960-7B38313A9BFC}|HomeService.Core.Services.Services\\HomeService.Core.Services.Services.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.core.services.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7559AF3A-F1E7-44D9-9960-7B38313A9BFC}|HomeService.Core.Services.Services\\HomeService.Core.Services.Services.csproj|solutionrelative:homeservice.core.services.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.core.services.appservices\\customerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E1D12-D312-4057-92F8-38661A2D6095}|HomeService.Core.Services.AppServices\\HomeService.Core.Services.AppServices.csproj|solutionrelative:homeservice.core.services.appservices\\customerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\areas\\account\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservices.endpoint.razorpages.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3C016-7091-418F-9FC8-31DD428CAF62}|HomeServices.Endpoint.RazorPages.UI\\HomeServices.Endpoint.RazorPages.UI.csproj|solutionrelative:homeservices.endpoint.razorpages.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418531D-1E70-43FD-AFCB-927E45F26105}|HomeService.Infrastructure.DataBase.Sql.Ef\\HomeService.Infrastructure.DataBase.Sql.Ef.csproj|c:\\users\\maleki\\desktop\\new folder (3)\\finalproject-master\\homeservice.infrastructure.database.sql.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418531D-1E70-43FD-AFCB-927E45F26105}|HomeService.Infrastructure.DataBase.Sql.Ef\\HomeService.Infrastructure.DataBase.Sql.Ef.csproj|solutionrelative:homeservice.infrastructure.database.sql.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAmwJQAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T20:29:23.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T20:24:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Comment.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:21:58.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BidRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\BidRepository.cs",
+              "RelativeDocumentMoniker": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\BidRepository.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\BidRepository.cs",
+              "RelativeToolTip": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\BidRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwEMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:59:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BidService.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.Services\\BidService.cs",
+              "RelativeDocumentMoniker": "HomeService.Core.Services.Services\\BidService.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.Services\\BidService.cs",
+              "RelativeToolTip": "HomeService.Core.Services.Services\\BidService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAApwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:05:17.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BidAppService.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\BidAppService.cs",
+              "RelativeDocumentMoniker": "HomeService.Core.Services.AppServices\\BidAppService.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\BidAppService.cs",
+              "RelativeToolTip": "HomeService.Core.Services.AppServices\\BidAppService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAApwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:05:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout-Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout-Account.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout-Account.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout-Account.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout-Account.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:58:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bid.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:55:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bid.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Bid.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwEEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:54:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\MyRequests.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\MyRequests.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\MyRequests.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\MyRequests.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:47:12.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountAppService.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\AccountAppService.cs",
+              "RelativeDocumentMoniker": "HomeService.Core.Services.AppServices\\AccountAppService.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\AccountAppService.cs",
+              "RelativeToolTip": "HomeService.Core.Services.AppServices\\AccountAppService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAawFkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:38:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Request.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Request.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Request.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Request.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:24:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListingServices.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\ListingServices.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\ListingServices.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\ListingServices.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\ListingServices.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:21:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "HomeService.Core.Services.Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.Services\\CustomerService.cs",
+              "RelativeToolTip": "HomeService.Core.Services.Services\\CustomerService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:17:26.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerAppService.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\CustomerAppService.cs",
+              "RelativeDocumentMoniker": "HomeService.Core.Services.AppServices\\CustomerAppService.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Core.Services.AppServices\\CustomerAppService.cs",
+              "RelativeToolTip": "HomeService.Core.Services.AppServices\\CustomerAppService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:17:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Profile.cshtml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowDkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:13:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:03:31.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T19:02:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:45:02.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T18:41:51.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T18:36:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Program.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Program.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:19:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Areas\\Account\\Pages\\Register.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:15:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAWwKYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:15:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\ExpertRepository.cs",
+              "RelativeDocumentMoniker": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\ExpertRepository.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\ExpertRepository.cs",
+              "RelativeToolTip": "HomeService.Infrastructure.DataAccess.Repo.Ef\\Repositories\\ExpertRepository.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAuwMAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:15:37.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAMwGQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T18:19:00.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:18:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataBase.Sql.Ef\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HomeService.Infrastructure.DataBase.Sql.Ef\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeService.Infrastructure.DataBase.Sql.Ef\\AppDbContext.cs",
+              "RelativeToolTip": "HomeService.Infrastructure.DataBase.Sql.Ef\\AppDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:13:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeServices.Endpoint.RazorPages.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\maleki\\Desktop\\New folder (3)\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\appsettings.json",
+              "RelativeToolTip": "HomeServices.Endpoint.RazorPages.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T18:10:42.714Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

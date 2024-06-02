@@ -1,0 +1,76 @@
+﻿@page
+@using Framework
+@using HomeService.Core.Enums
+@model HomeServices.Endpoint.RazorPages.UI.Pages.BidModel
+@{
+    Layout = "Shared/_Layout-Account";
+}
+<!-- ======================= dashboard Detail ======================== -->
+@* <div style="width: 1500px" class="goodup-dashboard-wrap gray px-4 py-5"> *@
+    <div class="goodup-dashboard-content">
+        <div class="dashboard-widg-bar d-block">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12">
+                    <div class="dashboard-list-wraps bg-white rounded mb-4">
+                        <div class="dashboard-list-wraps-head br-bottom py-3 px-3">
+                            <div class="dashboard-list-wraps-flx">
+                                <h4 class="mb-0 ft-medium fs-md"><i class="fas fa-shopping-basket ms-2 theme-cl fs-sm"></i>لیست رزروها</h4>
+                            </div>
+                        </div>
+                        <div class="dashboard-list-wraps-body py-3 px-3">
+                            <div class="dashboard-bookings-wraps">
+                                <!-- Single booking List -->
+                                @foreach (var bid in Model.Bids)
+                                {
+                                    <div class="dsd-single-bookings-wraps">
+                                        <div class="dsd-single-book-thumb"><a asp-route-expertId="@bid.ExpertId" asp-page="Comment"><img src="@bid.Expert.ProfileImgUrl" class="img-fluid circle" alt="" /></a></div>
+                                        <div class="dsd-single-book-caption">
+                                            <div class="dsd-single-book-title"><h5>@bid.Expert.FirstName @bid.Expert.LastName</h5></div>
+                                            <div class="ico-content">
+                                                @if (@bid.IsWinner == true)
+                                                {
+                                                    <ul>
+                                                        <li>
+                                                            <div class="px-2 py-1 medium bg-light-success rounded text-success">برنده شده</div></li>
+                                                    </ul>
+                                                }
+                                            </div>
+                                            <div class="dsd-single-descr">
+                                                <div class="dsd-single-item"><span class="dsd-item-title">نام:</span><span class="dsd-item-info">@bid.Expert.FirstName @bid.Expert.LastName</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">تاریخ رزرو:</span><span class="dsd-item-info">@bid.DateOfRegisteration.ToPersianString("yyyy/MM/dd")</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">پست الکترونیک:</span><span class="dsd-item-info">@bid.Expert.ApplicationUser.Email</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">شماره تماس:</span><span class="dsd-item-info">@bid.Expert.PhoneNumber</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">مبلغ:</span><span class="dsd-item-info">@bid.ProposedPrice</span></div>
+                                            </div>
+                                            @if (Model.Bids.Any(x => x.IsWinner == true))
+                                            {
+                                                @if (@bid.IsWinner == false)
+                                                {
+                                                    <div >
+                                                        <a class="btn btn-danger">رد شده</a>
+                                                    </div>
+                                                }
+                                                else
+                                                {
+                                                    <div >
+                                                        <a  class="btn btn-success "><i class="fas fa-check-circle ms-1"></i>تایید شده</a>
+                                                        <a asp-route-id="@bid.Expert.Id" asp-page="comment" class="btn btn-primary "><i class="fas fa-check-circle ms-1"></i>ثبت نظر برای کارشناس</a>
+                                                    </div>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <a asp-route-id="@bid.Id" asp-page-handler="Active" class="btn btn-success "><i class="fas fa-check-circle ms-1"></i>تایید </a>
+                                            }
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+@* </div> *@
+

@@ -1,0 +1,31 @@
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.deps.json
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.dll
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\refint\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\ref\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.CopyComplete
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+D:\FinalProject-master\Framework\bin\Debug\net8.0\Framework.deps.json
+D:\FinalProject-master\Framework\bin\Debug\net8.0\Framework.dll
+D:\FinalProject-master\Framework\bin\Debug\net8.0\Framework.pdb
+D:\FinalProject-master\Framework\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject-master\Framework\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.csproj.CopyComplete
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.dll
+D:\FinalProject-master\Framework\obj\Debug\net8.0\refint\Framework.dll
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.pdb
+D:\FinalProject-master\Framework\obj\Debug\net8.0\ref\Framework.dll
