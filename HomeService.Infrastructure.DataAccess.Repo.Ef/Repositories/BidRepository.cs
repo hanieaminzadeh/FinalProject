@@ -206,6 +206,18 @@ public class BidRepository : IBidRepository
         return bids;
     }
 
+    public async Task CreateBidByRequestId(CreateBidDto model, CancellationToken cancellationToken)
+    {
+        var newBid = new Bid()
+        {
+            RequestId = model.RequestId,
+            ExpertId = model.ExpertId,
+            DateOfRegisteration = DateTime.Now,
+        };
+        await _context.Bids.AddAsync(newBid);
+        await _context.SaveChangesAsync(cancellationToken);
+    }
+
     #endregion
 
     #region PrivateMethods
@@ -221,5 +233,6 @@ public class BidRepository : IBidRepository
 
         throw new Exception($"bid with id {id} not found");
     }
+
     #endregion
 }

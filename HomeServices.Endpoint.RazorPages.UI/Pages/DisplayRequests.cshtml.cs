@@ -27,9 +27,4 @@ public class DisplayRequestsModel : PageModel
 		var expertId = int.Parse(User.Claims.FirstOrDefault(c => c.Type == "userExpertId").Value);
         Orders = await _requestAppService.GetExpertRequest(expertId, cancellationToken);
 	}
-
-	public async Task<IActionResult> OnPost()
-	{
-        return LocalRedirect("~/SendBid");
-    }
 }

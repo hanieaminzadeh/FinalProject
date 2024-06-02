@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HomeServices.Endpoint.RazorPages.UI.Pages;
 
-[Authorize(Roles = "Customer,Expert")]
+[Authorize(Roles = "Customer")]
 public class BidModel : PageModel
 {
     private readonly IBidAppService _bidAppService;
@@ -45,4 +45,5 @@ public class BidModel : PageModel
 		await _bidAppService.DeActive(id, cancellationToken);
 		return RedirectToPage("Index");
 	}
+
 }

@@ -29,3 +29,4 @@ D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.dll
 D:\FinalProject-master\Framework\obj\Debug\net8.0\refint\Framework.dll
 D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.pdb
 D:\FinalProject-master\Framework\obj\Debug\net8.0\ref\Framework.dll
+D:\FinalProject-master\Framework\obj\Debug\net8.0\Framework.sourcelink.json

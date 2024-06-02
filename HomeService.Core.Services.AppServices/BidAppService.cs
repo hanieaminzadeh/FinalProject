@@ -59,5 +59,9 @@ public class BidAppService : IBidAppService
 
     public async Task<List<BidDto>> GetBidsByOrderId(int orderId, CancellationToken cancellationToken)
         => await _bidService.GetBidsByOrderId(orderId, cancellationToken);
-	#endregion
+
+    public async Task CreateBidByRequestId(CreateBidDto model, CancellationToken cancellationToken)
+        => await _bidService.CreateBidByRequestId(model, cancellationToken);
+
+    #endregion
 }

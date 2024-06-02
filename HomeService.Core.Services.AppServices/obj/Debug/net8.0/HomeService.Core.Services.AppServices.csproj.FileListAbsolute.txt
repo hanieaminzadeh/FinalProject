@@ -29,3 +29,4 @@ D:\FinalProject-master\HomeService.Core.Services.AppServices\obj\Debug\net8.0\Ho
 D:\FinalProject-master\HomeService.Core.Services.AppServices\obj\Debug\net8.0\refint\HomeService.Core.Services.AppServices.dll
 D:\FinalProject-master\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
 D:\FinalProject-master\HomeService.Core.Services.AppServices\obj\Debug\net8.0\ref\HomeService.Core.Services.AppServices.dll
+D:\FinalProject-master\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.sourcelink.json

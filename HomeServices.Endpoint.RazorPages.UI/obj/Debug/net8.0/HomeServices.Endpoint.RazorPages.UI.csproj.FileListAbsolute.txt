@@ -1223,3 +1223,4 @@ D:\FinalProject-master\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\refi
 D:\FinalProject-master\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.pdb
 D:\FinalProject-master\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.genruntimeconfig.cache
 D:\FinalProject-master\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\ref\HomeServices.Endpoint.RazorPages.UI.dll
+D:\FinalProject-master\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.sourcelink.json

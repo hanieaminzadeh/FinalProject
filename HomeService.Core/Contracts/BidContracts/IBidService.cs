@@ -16,4 +16,5 @@ public interface IBidService
     Task<Bid>? GetBidById(int id, CancellationToken cancellationToken);
     Task UpdateBid(BidDto model, CancellationToken cancellationToken);
     Task<List<BidDto>> GetBidsByOrderId(int orderId, CancellationToken cancellationToken);
+    Task CreateBidByRequestId(CreateBidDto model, CancellationToken cancellationToken);
 }
