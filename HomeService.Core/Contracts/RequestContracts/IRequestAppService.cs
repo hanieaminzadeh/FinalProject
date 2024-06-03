@@ -5,7 +5,7 @@ namespace HomeService.Core.Contracts.RequestContracts;
 
 public interface IRequestAppService
 {
-    Task CreateRequest(RequestDto model, CancellationToken cancellationToken);
+    Task<int> CreateRequest(RequestDto model, CancellationToken cancellationToken);
     Task<int> CountRequests(CancellationToken cancellationToken);
     Task<bool> IsActive(int id, CancellationToken cancellationToken);
     Task Active(int id, CancellationToken cancellationToken);
@@ -17,4 +17,5 @@ public interface IRequestAppService
     Task<ChangeStatusDto> ChangeRequestStatus(ChangeStatusDto newStatus, CancellationToken cancellationToken);
     Task<List<Request>> GetRequestByCustomerId(int? customerId, CancellationToken cancellationToken);
     Task<List<RequestDto>> GetExpertRequest(int? expertId, CancellationToken cancellationToken);
+   
 }

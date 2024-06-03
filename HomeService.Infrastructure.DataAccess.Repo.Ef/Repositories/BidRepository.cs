@@ -218,6 +218,12 @@ public class BidRepository : IBidRepository
         await _context.SaveChangesAsync(cancellationToken);
     }
 
+    public async Task<int> GetRequestIdByBidId(int bidId, CancellationToken cancellationToken)
+    {
+        var record = await _context.Bids.FirstOrDefaultAsync(x => x.Id == bidId, cancellationToken);
+        return (int)record.RequestId;
+    }
+
     #endregion
 
     #region PrivateMethods

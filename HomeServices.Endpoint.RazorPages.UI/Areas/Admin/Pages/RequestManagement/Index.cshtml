@@ -34,43 +34,43 @@
                         @* <td>@request.Status.GetEnumDisplayName()</td> *@
                         @if (@request.Status == RequestStatus.Registered)
                         {
-                        <td class="badge bg-label-success p-3 m-2">
-                                @request.Status.GetEnumDisplayName()
-                            </td>
-                        }
-                        @if (@request.Status == RequestStatus.Cancelled)
-                        {
-                            <td class="badge bg-label-danger p-3 m-2">
-                                @request.Status.GetEnumDisplayName()
-                            </td>
-                        }
-                        @if (@request.Status == RequestStatus.CheckingAndWaitingExpert)
-                        {
-                            <td class="badge bg-label-info p-3 m-2">
-                                @request.Status.GetEnumDisplayName()
-                            </td>
-                        }
-                        @if (@request.Status == RequestStatus.Started)
-                        {
                             <td class="badge bg-label-primary p-3 m-2">
                                 @request.Status.GetEnumDisplayName()
                             </td>
                         }
-                        @if (@request.Status == RequestStatus.Paid)
+                        @* @if (@request.Status == RequestStatus.Cancelled)
+                        {
+                            <td class="badge bg-label-danger p-3 m-2">
+                                @request.Status.GetEnumDisplayName()
+                            </td>
+                        } *@
+                        @if (@request.Status == RequestStatus.CheckingAndWaitingExpert)
+                        {
+                            <td class="badge bg-label-warning p-3 m-2">
+                                @request.Status.GetEnumDisplayName()
+                            </td>
+                        }
+                        @* @if (@request.Status == RequestStatus.Started)
+                        {
+                            <td class="badge bg-label-primary p-3 m-2">
+                                @request.Status.GetEnumDisplayName()
+                            </td>
+                        } *@
+                        @* @if (@request.Status == RequestStatus.Paid)
                         {
                             <td class="badge bg-label-success p-3 m-2">
                                 @request.Status.GetEnumDisplayName()
                             </td>
-                        }
+                        } *@
                         @if (@request.Status == RequestStatus.RegisteredByExpert)
                         {
                             <td class="badge bg-label-success p-3 m-2">
                                 @request.Status.GetEnumDisplayName()
                             </td>
                         }
-                        @if (@request.Status == RequestStatus.ExpertComingToYourHome)
+                        @if (@request.Status == RequestStatus.Done)
                         {
-                            <td class="badge bg-label-warning p-3 m-2">
+                            <td class="badge bg-label-success p-3 m-2">
                                 @request.Status.GetEnumDisplayName()
                             </td>
                         }

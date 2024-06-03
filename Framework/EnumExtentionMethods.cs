@@ -20,23 +20,14 @@ public static class EnumExtensionMethods
             case RequestStatus.Registered:
                 color = "blue";
                 break;
-            case RequestStatus.Cancelled:
-                color = "red";
-                break;
             case RequestStatus.CheckingAndWaitingExpert:
                 color = "green";
                 break;
-            case RequestStatus.Started:
-                color = "purple";
-                break;
-            case RequestStatus.Paid:
-                color = "orange";
-                break;
             case RequestStatus.RegisteredByExpert:
-                color = "red";
+                color = "green";
                 break;
-            case RequestStatus.ExpertComingToYourHome:
-                color = "brown";
+            case RequestStatus.Done:
+                color = "green";
                 break;
             default:
                 color = "black";

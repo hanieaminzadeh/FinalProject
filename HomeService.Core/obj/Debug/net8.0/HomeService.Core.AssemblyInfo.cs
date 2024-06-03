@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeService.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ed60ae04e23b00d2abe28016fd82966412a2c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60d5dcde954664c9a335d0702c56aa2c3f51cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeService.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeService.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

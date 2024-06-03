@@ -30,6 +30,7 @@
                                         <div class="dsd-single-lst-thumb"><img src="assets/img/Customer-service.png" class="img-fluid" alt="" /></div>
                                         <div class="dsd-single-lst-caption">
                                             <div class="dsd-single-lst-title"><h5>@order.Service.Title</h5></div>
+                                            <li><div class="px-2 py-1 medium bg-light-success rounded">@order.Status</div></li>
                                             <div class="ico-content">
                                                 <div class="Goodup-ft-first">
                                                     <div class="Goodup-price-range">
@@ -38,7 +39,7 @@
                                                 </div>
                                             </div>
                                             <div class="dsd-single-lst-footer">
-                                                <a asp-page="Bid" asp-route-id="@order.Id" class="btn btn-view mr-1"><i class="fas fa-eye ms-1"></i>نمایش پیشنهاد ها</a>
+                                                <a asp-page="Bid" asp-route-orderId="@order.Id" class="btn btn-view mr-1"><i class="fas fa-eye ms-1"></i>نمایش پیشنهاد ها</a>
                                             </div>
                                         </div>
                                     </div>

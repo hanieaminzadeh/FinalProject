@@ -46,4 +46,8 @@ public class BidModel : PageModel
 		return RedirectToPage("Index");
 	}
 
+    //public async Task<IActionResult> OnPostDone(int orderId, CancellationToken cancellationToken)
+    //{
+
+    //}
 }

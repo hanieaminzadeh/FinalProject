@@ -20,7 +20,7 @@ public class RequestService : IRequestService
     #endregion
 
     #region Implementations
-    public async Task CreateRequest(RequestDto model, CancellationToken cancellationToken)
+    public async Task<int> CreateRequest(RequestDto model, CancellationToken cancellationToken)
         => await _requestrRepository.CreateRequest(model, cancellationToken);
 
     public async Task<int> CountRequests(CancellationToken cancellationToken)

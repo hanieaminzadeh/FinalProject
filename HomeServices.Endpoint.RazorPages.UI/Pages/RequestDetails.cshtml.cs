@@ -30,7 +30,19 @@ public class RequestDetailsModel : PageModel
     public async Task OnGet(int orderId, CancellationToken cancellationToken)
     {
         Order = await _requestAppService.GetRequestById(orderId, cancellationToken);
-        ExpertId = int.Parse(User.Claims.FirstOrDefault(c => c.Type == "userExpertId").Value);
+        var applicationUserId = int.Parse(User.Claims.First().Value);
+        int? userId;
+
+        var user = User.Claims.FirstOrDefault(c => c.Type == "userExpertId");
+        if (user != null)
+        {
+            userId = int.Parse(user.Value);
+        }
+        else
+        {
+            userId = await _expertAppService.GetExpertIdByApplicationUserId(applicationUserId, cancellationToken);
+        }
+        ExpertId = userId.Value;
     }
 
     public async Task<IActionResult> OnGetCreateBid(int id, CancellationToken cancellationToken)

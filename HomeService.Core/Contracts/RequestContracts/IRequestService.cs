@@ -5,7 +5,7 @@ namespace HomeService.Core.Contracts.RequestContracts;
 
 public interface IRequestService
 {
-    Task CreateRequest(RequestDto model, CancellationToken cancellationToken);
+    Task<int> CreateRequest(RequestDto model, CancellationToken cancellationToken);
     Task<int> CountRequests(CancellationToken cancellationToken);
     Task<bool> IsActive(int id, CancellationToken cancellationToken);
     Task Active(int id, CancellationToken cancellationToken);

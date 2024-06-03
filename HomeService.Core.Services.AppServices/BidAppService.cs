@@ -1,4 +1,5 @@
 ﻿using HomeService.Core.Contracts.BidContracts;
+using HomeService.Core.Contracts.RequestContracts;
 using HomeService.Core.DTOs;
 using HomeService.Core.Entities;
 
@@ -8,18 +9,31 @@ public class BidAppService : IBidAppService
 {
     #region Fields
     private readonly IBidService _bidService;
+    private readonly IRequestService _requestService;
     #endregion
 
     #region Ctors
-    public BidAppService(IBidService bidService)
+    public BidAppService(IBidService bidService,
+        IRequestService requestService)
     {
         _bidService = bidService;
+        _requestService = requestService;
     }
     #endregion
 
     #region Implementations
     public async Task CreateBid(BidDto model, CancellationToken cancellationToken)
-   => await _bidService.CreateBid(model, cancellationToken);
+    {
+        await _bidService.CreateBid(model, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = (int)model.RequestId,
+            Status = Enums.RequestStatus.CheckingAndWaitingExpert,
+        };
+
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
+    }
 
     public async Task<int> CountBids(CancellationToken cancellationToken)
         => await _bidService.CountBids(cancellationToken);
@@ -36,9 +50,19 @@ public class BidAppService : IBidAppService
     {
         await _bidService.DeActive(id, cancellationToken);
     }
+
     public async Task AcceptRequest(int id, CancellationToken cancellationToken)
     {
         await _bidService.AcceptRequest(id, cancellationToken);
+
+        var requestId = await _bidService.GetRequestIdByBidId(id, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = requestId,
+            Status = Enums.RequestStatus.RegisteredByExpert,
+        };
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
     }
 
     public async Task DeleteBidById(int id, CancellationToken cancellationToken)

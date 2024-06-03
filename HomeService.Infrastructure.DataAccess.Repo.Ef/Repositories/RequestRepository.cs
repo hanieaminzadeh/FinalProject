@@ -27,30 +27,23 @@ public class RequestRepository : IRequestRepository
     #endregion
 
     #region Implementations
-    public async Task CreateRequest(RequestDto model, CancellationToken cancellationToken)
+    public async Task<int> CreateRequest(RequestDto model, CancellationToken cancellationToken)
     {
         var newRequest = new Request()
         {
-            Id = model.Id,
             Customer = model.Customer,
             DateOfRegisteration = DateTime.Now,
             DateOfImplemention = model.DateOfImplemention,
             Status = model.Status,
             Description = model.Description,
             CustomerId = model.CustomerId,
-            //Service = model.Service,
             ServiceId = model.ServiceId,
         };
-        try
-        {
-            await _context.Requests.AddAsync(newRequest);
-            await _context.SaveChangesAsync(cancellationToken);
-            _logger.LogInformation("Request Added Succesfully");
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError("Request not created Maybe it has already been added Or there is another error {Exception}", ex);
-        }
+        await _context.Requests.AddAsync(newRequest);
+        await _context.SaveChangesAsync(cancellationToken);
+        _logger.LogInformation("Request Added Succesfully");
+        return newRequest.Id;
+
     }
 
     public async Task<int> CountRequests(CancellationToken cancellationToken)

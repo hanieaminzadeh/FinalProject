@@ -20,8 +20,22 @@ public class RequestAppService : IRequestAppService
 
     #region Implementations
 
-    public async Task CreateRequest(RequestDto model, CancellationToken cancellationToken)
-        => await _requestService.CreateRequest(model, cancellationToken);
+    //public async Task CreateRequest(RequestDto model, CancellationToken cancellationToken)
+    //    => await _requestService.CreateRequest(model, cancellationToken);
+    public async Task<int> CreateRequest(RequestDto model, CancellationToken cancellationToken)
+    {
+        var requestId = await _requestService.CreateRequest(model, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = requestId,
+            Status = Enums.RequestStatus.Registered,
+        };
+
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
+
+        return requestId;
+    }
 
     public async Task<int> CountRequests(CancellationToken cancellationToken)
         => await _requestService.CountRequests(cancellationToken);

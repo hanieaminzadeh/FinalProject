@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cx5+CAwVLSi3yXwq7slsXE8lK2Kq/OwREiRvbiDtgyA=",
+  "Hash": "9Z1DdPw/fibuzl45vddazrg+K5KH8QLKUPlsG86QcJA=",
   "Source": "HomeServices.Endpoint.RazorPages.UI",
   "BasePath": "_content/HomeServices.Endpoint.RazorPages.UI",
   "Mode": "Default",
@@ -25798,6 +25798,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\70eb4d3a-7cc1-4acf-87b2-b6a327c228a9_doc-5.jpg"
+    },
+    {
+      "Identity": "D:\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\wwwroot\\uploads\\7208ffd8-03cc-4323-8549-d022065393aa_doc-7.jpg",
+      "SourceId": "HomeServices.Endpoint.RazorPages.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\wwwroot\\",
+      "BasePath": "_content/HomeServices.Endpoint.RazorPages.UI",
+      "RelativePath": "uploads/7208ffd8-03cc-4323-8549-d022065393aa_doc-7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7208ffd8-03cc-4323-8549-d022065393aa_doc-7.jpg"
     },
     {
       "Identity": "D:\\FinalProject-master\\HomeServices.Endpoint.RazorPages.UI\\wwwroot\\uploads\\c460765d-651c-454c-b6ec-fe798bf0912b_doc-8.jpg",
