@@ -94,17 +94,22 @@ public class ProfileModel : PageModel
 
     public async Task<IActionResult> OnPostUpdateCustomer(IFormFile image, CancellationToken cancellationToken)
     {
-
-        var imageUrl = await _baseAppServices.UploadImage(image);
-        Customer.ProfileImgUrl = imageUrl;
+        if (image != null)
+        {
+            var imageUrl = await _baseAppServices.UploadImage(image);
+            Customer.ProfileImgUrl = imageUrl;
+        }
         await _customerAppServices.UpdateCustomer(Customer, cancellationToken);
         return LocalRedirect("/Profile");
     }
 
-    public async Task<IActionResult> OnPostUpdateExpert( IFormFile image, CancellationToken cancellationToken)
+    public async Task<IActionResult> OnPostUpdateExpert(IFormFile image, CancellationToken cancellationToken)
     {
-        var imageUrl = await _baseAppServices.UploadImage(image);
-        Expert.ProfileImgUrl = imageUrl;
+        if (image != null)
+        {
+            var imageUrl = await _baseAppServices.UploadImage(image);
+            Expert.ProfileImgUrl = imageUrl;
+        }
         await _expertAppService.UpdateExpert(Expert, cancellationToken);
         return LocalRedirect("/Profile");
     }

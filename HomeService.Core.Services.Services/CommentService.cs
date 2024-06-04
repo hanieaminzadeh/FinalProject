@@ -54,5 +54,8 @@ public class CommentService : ICommentService
     {
         await _commentRepository.UpdateComment(model, cancellationToken);
     }
+
+    public async Task CreateCommentDto(CreateCommentDto model, CancellationToken cancellationToken)
+        => await _commentRepository.CreateCommentDto(model, cancellationToken);
     #endregion
 }

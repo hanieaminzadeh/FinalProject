@@ -4,6 +4,7 @@ namespace HomeService.Core.Contracts.CommentContracts;
 
 public interface ICommentAppService
 {
+    Task CreateCommentDto(CreateCommentDto model, CancellationToken cancellationToken);
     Task CreateComment(CommentDto model, CancellationToken cancellationToken);
     Task<int> CountComments(CancellationToken cancellationToken);
     Task<bool> IsActive(int id, CancellationToken cancellationToken);

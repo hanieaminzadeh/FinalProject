@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeService.Infrastructure.DataAccess.Repo.Ef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f087d8534cb7a5aad12420a69548f14d34ae62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5a283d0d13bd985cfef7d2e3d29ad8a7f4b5d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeService.Infrastructure.DataAccess.Repo.Ef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeService.Infrastructure.DataAccess.Repo.Ef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

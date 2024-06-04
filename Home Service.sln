@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Framework", "00-Framewor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framework", "Framework\Framework.csproj", "{6025D179-1294-4471-A40E-D38F535E310C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeService.Endpoint.WebApi", "HomeService.Endpoint.WebApi\HomeService.Endpoint.WebApi.csproj", "{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{6025D179-1294-4471-A40E-D38F535E310C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6025D179-1294-4471-A40E-D38F535E310C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6025D179-1294-4471-A40E-D38F535E310C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{F418531D-1E70-43FD-AFCB-927E45F26105} = {B5F0D6D3-4CE4-4EF3-A4A7-5DB78E0DD2C0}
 		{927A46DF-6799-4088-B25D-D0BC4BF3FB0F} = {183D4AC0-102B-4F63-9E98-985741C19D85}
 		{6025D179-1294-4471-A40E-D38F535E310C} = {927A46DF-6799-4088-B25D-D0BC4BF3FB0F}
+		{90DAAE71-1FF7-48B7-8AF7-4EE8869B4A14} = {345BD0FF-E5F5-4FA6-9A40-EAF1496D5AAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5876F7B9-B188-46D5-878A-903DE83667E9}

@@ -27,6 +27,19 @@ public class CommentRepository : ICommentRepository
     #endregion
 
     #region Implementations
+    public async Task CreateCommentDto(CreateCommentDto model, CancellationToken cancellationToken)
+    {
+        var newComment = new Comment()
+        {
+            CommentText = model.CommentText,
+            CustomerId = model.CustomerId,
+            ExpertId = model.ExpertId,
+            Score = model.Score,
+        };
+            await _context.Comments.AddAsync(newComment);
+            await _context.SaveChangesAsync(cancellationToken);
+    }
+
     public async Task CreateComment(CommentDto model, CancellationToken cancellationToken)
     {
         var newComment = new Comment()
