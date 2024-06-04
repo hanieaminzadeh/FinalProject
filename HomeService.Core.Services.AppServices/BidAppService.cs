@@ -44,11 +44,29 @@ public class BidAppService : IBidAppService
     public async Task Active(int id, CancellationToken cancellationToken)
     {
         await _bidService.Active(id, cancellationToken);
+
+        var requestId = await _bidService.GetRequestIdByBidId(id, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = requestId,
+            Status = Enums.RequestStatus.CheckingAndWaitingExpert,
+        };
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
     }
 
     public async Task DeActive(int id, CancellationToken cancellationToken)
     {
         await _bidService.DeActive(id, cancellationToken);
+
+        var requestId = await _bidService.GetRequestIdByBidId(id, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = requestId,
+            Status = Enums.RequestStatus.Rejected,
+        };
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
     }
 
     public async Task AcceptRequest(int id, CancellationToken cancellationToken)
@@ -86,6 +104,19 @@ public class BidAppService : IBidAppService
 
     public async Task CreateBidByRequestId(CreateBidDto model, CancellationToken cancellationToken)
         => await _bidService.CreateBidByRequestId(model, cancellationToken);
+
+
+    public async Task DoneRequest(int bidId, CancellationToken cancellationToken)
+    {
+        var requestId = await _bidService.GetRequestIdByBidId(bidId, cancellationToken);
+
+        var statusModel = new ChangeStatusDto
+        {
+            Id = requestId,
+            Status = Enums.RequestStatus.Done,
+        };
+        await _requestService.ChangeRequestStatus(statusModel, cancellationToken);
+    }
 
     #endregion
 }

@@ -122,13 +122,14 @@ public class RequestRepository : IRequestRepository
                 .Include(r => r.Customer)
                 .ThenInclude(r => r.ApplicationUser)
                 .Include(r => r.Service)
-            .Select(c => new RequestDto
+            .Select(r => new RequestDto
             {
-                Id = c.Id,
-                Customer = c.Customer,
-                Service = c.Service,
-                ServiceName = c.Service.Title,
-                Bids = c.Bids,
+                Id = r.Id,
+                Customer = r.Customer,
+                Service = r.Service,
+                ServiceName = r.Service.Title,
+                Bids = r.Bids,
+                Status = r.Status,
             }).FirstOrDefaultAsync(a => a.Id == requestId, cancellationToken);
 
         if (request != null)

@@ -20624,6 +20624,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0530b0dd-e829-49cb-8e72-caa649a45b98_team-5.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>HomeServices.Endpoint.RazorPages.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HomeServices.Endpoint.RazorPages.UI</BasePath>
+      <RelativePath>uploads/0530b0dd-e829-49cb-8e72-caa649a45b98_team-5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0530b0dd-e829-49cb-8e72-caa649a45b98_team-5.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0f555004-fe2c-4d37-b6bc-61e75d37d828_user-1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>HomeServices.Endpoint.RazorPages.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HomeServices.Endpoint.RazorPages.UI</BasePath>
+      <RelativePath>uploads/0f555004-fe2c-4d37-b6bc-61e75d37d828_user-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0f555004-fe2c-4d37-b6bc-61e75d37d828_user-1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\13490de9-9db0-42bd-becb-549e002ecae2_b-2.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>HomeServices.Endpoint.RazorPages.UI</SourceId>
@@ -20687,6 +20719,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\45cfd6af-89e8-462e-9241-3a1c7cad8531_cute-girl-smiling-girl-happiness-feathers-white-background-1920x1080-2697.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f381a8f-ab4b-4f62-9204-8907f91f6fdc_user-1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>HomeServices.Endpoint.RazorPages.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HomeServices.Endpoint.RazorPages.UI</BasePath>
+      <RelativePath>uploads/6f381a8f-ab4b-4f62-9204-8907f91f6fdc_user-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f381a8f-ab4b-4f62-9204-8907f91f6fdc_user-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\70eb4d3a-7cc1-4acf-87b2-b6a327c228a9_doc-5.jpg))">
       <SourceType>Package</SourceType>

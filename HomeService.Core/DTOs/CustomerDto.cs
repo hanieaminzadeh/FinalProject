@@ -1,5 +1,4 @@
 ﻿using HomeService.Core.Entities;
-using HomeService.Core.Enums;
 
 namespace HomeService.Core.DTOs;
 

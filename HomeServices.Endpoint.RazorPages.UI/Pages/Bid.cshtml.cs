@@ -28,11 +28,11 @@ public class BidModel : PageModel
         Bids = await _bidAppService.GetBidsByOrderId(orderId, cancellationToken);
     }
 
-    public async Task<IActionResult> OnPost(CancellationToken cancellationToken)
-    {
-        await _requestAppService.ChangeRequestStatus(NewStatus, cancellationToken);
-        return RedirectToPage("Index");
-    } 
+    //public async Task<IActionResult> OnPost(CancellationToken cancellationToken)
+    //{
+    //    await _requestAppService.ChangeRequestStatus(NewStatus, cancellationToken);
+    //    return RedirectToPage("Index");
+    //} 
 
     public async Task<IActionResult> OnGetActive(int id, CancellationToken cancellationToken)
 	{
@@ -46,8 +46,9 @@ public class BidModel : PageModel
 		return RedirectToPage("Index");
 	}
 
-    //public async Task<IActionResult> OnPostDone(int orderId, CancellationToken cancellationToken)
-    //{
-
-    //}
+    public async Task<IActionResult> OnPostDone(int bidId, CancellationToken cancellationToken)
+    {
+        await _bidAppService.DoneRequest(bidId, cancellationToken);
+        return RedirectToPage("Index");
+    }
 }

@@ -30,6 +30,7 @@ public class RequestDetailsModel : PageModel
     public async Task OnGet(int orderId, CancellationToken cancellationToken)
     {
         Order = await _requestAppService.GetRequestById(orderId, cancellationToken);
+
         var applicationUserId = int.Parse(User.Claims.First().Value);
         int? userId;
 

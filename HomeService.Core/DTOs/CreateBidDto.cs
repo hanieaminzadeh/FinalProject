@@ -1,7 +1,4 @@
-﻿using HomeService.Core.Entities;
-using System.Reflection.PortableExecutable;
-
-namespace HomeService.Core.DTOs;
+﻿namespace HomeService.Core.DTOs;
 
 public class CreateBidDto
 {

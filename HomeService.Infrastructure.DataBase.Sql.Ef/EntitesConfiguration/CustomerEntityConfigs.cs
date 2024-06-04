@@ -37,7 +37,7 @@ public class CustomerEntityConfigs : IEntityTypeConfiguration<Customer>
             new Customer()
             {
                 Id = 1,
-                FirstName = "سحر",
+                FirstName = "علی",
                 LastName = "کرامت",
                 Address = "تهران، زمزم",
                 PhoneNumber = "091234567",

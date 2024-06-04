@@ -1,6 +1,4 @@
-﻿using HomeService.Core.Enums;
-
-namespace HomeService.Core.DTOs;
+﻿namespace HomeService.Core.DTOs;
 
 public class AdminDto
 {

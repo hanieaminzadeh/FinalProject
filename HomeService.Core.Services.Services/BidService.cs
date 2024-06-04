@@ -19,7 +19,7 @@ public class BidService : IBidService
 
     #region Implementations
     public async Task CreateBid(BidDto model, CancellationToken cancellationToken)
-   => await _bidRepository.CreateBid(model, cancellationToken);
+        => await _bidRepository.CreateBid(model, cancellationToken);
 
     public async Task<int> CountBids(CancellationToken cancellationToken)
         => await _bidRepository.CountBids(cancellationToken);
@@ -28,24 +28,16 @@ public class BidService : IBidService
         => await _bidRepository.IsActive(id, cancellationToken);
 
     public async Task Active(int id, CancellationToken cancellationToken)
-    {
-        await _bidRepository.Active(id, cancellationToken);
-    }
+        => await _bidRepository.Active(id, cancellationToken);
 
     public async Task DeActive(int id, CancellationToken cancellationToken)
-    {
-        await _bidRepository.DeActive(id, cancellationToken);
-    }
+        => await _bidRepository.DeActive(id, cancellationToken);
 
     public async Task AcceptRequest(int id, CancellationToken cancellationToken)
-    {
-        await _bidRepository.AcceptRequest(id, cancellationToken);
-    }
+        => await _bidRepository.AcceptRequest(id, cancellationToken);
 
     public async Task DeleteBidById(int id, CancellationToken cancellationToken)
-    {
-        await _bidRepository.DeleteBidById(id, cancellationToken);
-    }
+        => await _bidRepository.DeleteBidById(id, cancellationToken);
 
     public async Task<List<BidDto>> GetAllBids(CancellationToken cancellationToken)
         => await _bidRepository.GetAllBids(cancellationToken);
@@ -54,9 +46,7 @@ public class BidService : IBidService
         => await _bidRepository.GetBidById(id, cancellationToken);
 
     public async Task UpdateBid(BidDto model, CancellationToken cancellationToken)
-    {
-        await _bidRepository.UpdateBid(model, cancellationToken);
-    }
+        => await _bidRepository.UpdateBid(model, cancellationToken);
 
     public async Task<List<BidDto>> GetBidsByOrderId(int orderId, CancellationToken cancellationToken)
         => await _bidRepository.GetBidsByOrderId(orderId, cancellationToken);
@@ -66,5 +56,7 @@ public class BidService : IBidService
 
     public async Task<int> GetRequestIdByBidId(int bidId, CancellationToken cancellationToken)
         => await _bidRepository.GetRequestIdByBidId(bidId, cancellationToken);
+
+
     #endregion
 }
