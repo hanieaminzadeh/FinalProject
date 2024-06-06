@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\HomeService.Endpoint.WebApi.props" />
-</Project>
